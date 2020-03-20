@@ -1,1 +1,5 @@
-alice
+<<<<<<< HEAD
+alice    
+=======
+alice   
+>>>>>>> dev-alice
